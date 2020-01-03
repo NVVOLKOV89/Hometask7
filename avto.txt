@@ -1,0 +1,5 @@
+Brend;Model;Fuel_consumption;Price
+Audi;A3;8.6;1000000
+Mazda;X3;7.3;900000
+Reno;Logan;7.7;700000
+Skoda;Rapid;7.0;850000
